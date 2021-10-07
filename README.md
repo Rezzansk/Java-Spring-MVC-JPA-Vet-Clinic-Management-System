@@ -24,41 +24,41 @@ This project has been designed in order to meet the necessity of clinic operatio
 ## Application Images
 <p>
 <a href="https://raw.githubusercontent.com/Rezzansk/Java-Spring-MVC-JPA-Vet-Clinic-Management-System/main/images/VetApp_SpringMVC_Rezzan-page-1.jpg" target="_blank">
-<img src="https://raw.githubusercontent.com/Rezzansk/Java-Spring-MVC-JPA-Vet-Clinic-Management-System/main/images/VetApp_SpringMVC_Rezzan-page-1.jpg" width="450" style="max-width:100%;"></a>
+<img src="https://raw.githubusercontent.com/Rezzansk/Java-Spring-MVC-JPA-Vet-Clinic-Management-System/main/images/VetApp_SpringMVC_Rezzan-page-1.jpg" width="400" style="max-width:100%;"></a>
 <a href="https://raw.githubusercontent.com/Rezzansk/Java-Spring-MVC-JPA-Vet-Clinic-Management-System/main/images/VetApp_SpringMVC_Rezzan-page-2.jpg" target="_blank">
-<img src="https://raw.githubusercontent.com/Rezzansk/Java-Spring-MVC-JPA-Vet-Clinic-Management-System/main/images/VetApp_SpringMVC_Rezzan-page-2.jpg" width="450" style="max-width:100%;"></a>
+<img src="https://raw.githubusercontent.com/Rezzansk/Java-Spring-MVC-JPA-Vet-Clinic-Management-System/main/images/VetApp_SpringMVC_Rezzan-page-2.jpg" width="400" style="max-width:100%;"></a>
 <a href="https://raw.githubusercontent.com/Rezzansk/Java-Spring-MVC-JPA-Vet-Clinic-Management-System/main/images/VetApp_SpringMVC_Rezzan-page-3.jpg" target="_blank">
-<img src="https://raw.githubusercontent.com/Rezzansk/Java-Spring-MVC-JPA-Vet-Clinic-Management-System/main/images/VetApp_SpringMVC_Rezzan-page-3.jpg" width="450" style="max-width:100%;"></a>
+<img src="https://raw.githubusercontent.com/Rezzansk/Java-Spring-MVC-JPA-Vet-Clinic-Management-System/main/images/VetApp_SpringMVC_Rezzan-page-3.jpg" width="400" style="max-width:100%;"></a>
 <a href="https://raw.githubusercontent.com/Rezzansk/Java-Spring-MVC-JPA-Vet-Clinic-Management-System/main/images/VetApp_SpringMVC_Rezzan-page-4.jpg" target="_blank">
-<img src="https://raw.githubusercontent.com/Rezzansk/Java-Spring-MVC-JPA-Vet-Clinic-Management-System/main/images/VetApp_SpringMVC_Rezzan-page-4.jpg" width="450" style="max-width:100%;"></a>
+<img src="https://raw.githubusercontent.com/Rezzansk/Java-Spring-MVC-JPA-Vet-Clinic-Management-System/main/images/VetApp_SpringMVC_Rezzan-page-4.jpg" width="400" style="max-width:100%;"></a>
 <a href="https://raw.githubusercontent.com/Rezzansk/Java-Spring-MVC-JPA-Vet-Clinic-Management-System/main/images/VetApp_SpringMVC_Rezzan-page-5.jpg" target="_blank">
-<img src="https://raw.githubusercontent.com/Rezzansk/Java-Spring-MVC-JPA-Vet-Clinic-Management-System/main/images/VetApp_SpringMVC_Rezzan-page-5.jpg" width="450" style="max-width:100%;"></a>
+<img src="https://raw.githubusercontent.com/Rezzansk/Java-Spring-MVC-JPA-Vet-Clinic-Management-System/main/images/VetApp_SpringMVC_Rezzan-page-5.jpg" width="400" style="max-width:100%;"></a>
 <a href="https://raw.githubusercontent.com/Rezzansk/Java-Spring-MVC-JPA-Vet-Clinic-Management-System/main/images/VetApp_SpringMVC_Rezzan-page-6.jpg" target="_blank">
-<img src="https://raw.githubusercontent.com/Rezzansk/Java-Spring-MVC-JPA-Vet-Clinic-Management-System/main/images/VetApp_SpringMVC_Rezzan-page-6.jpg" width="450" style="max-width:100%;"></a>
+<img src="https://raw.githubusercontent.com/Rezzansk/Java-Spring-MVC-JPA-Vet-Clinic-Management-System/main/images/VetApp_SpringMVC_Rezzan-page-6.jpg" width="400" style="max-width:100%;"></a>
 <a href="https://raw.githubusercontent.com/Rezzansk/Java-Spring-MVC-JPA-Vet-Clinic-Management-System/main/images/VetApp_SpringMVC_Rezzan-page-7.jpg" target="_blank">
-<img src="https://raw.githubusercontent.com/Rezzansk/Java-Spring-MVC-JPA-Vet-Clinic-Management-System/main/images/VetApp_SpringMVC_Rezzan-page-7.jpg" width="450" style="max-width:100%;"></a>
+<img src="https://raw.githubusercontent.com/Rezzansk/Java-Spring-MVC-JPA-Vet-Clinic-Management-System/main/images/VetApp_SpringMVC_Rezzan-page-7.jpg" width="400" style="max-width:100%;"></a>
 <a href="https://raw.githubusercontent.com/Rezzansk/Java-Spring-MVC-JPA-Vet-Clinic-Management-System/main/images/VetApp_SpringMVC_Rezzan-page-8.jpg" target="_blank">
-<img src="https://raw.githubusercontent.com/Rezzansk/Java-Spring-MVC-JPA-Vet-Clinic-Management-System/main/images/VetApp_SpringMVC_Rezzan-page-8.jpg" width="450" style="max-width:100%;"></a>
+<img src="https://raw.githubusercontent.com/Rezzansk/Java-Spring-MVC-JPA-Vet-Clinic-Management-System/main/images/VetApp_SpringMVC_Rezzan-page-8.jpg" width="400" style="max-width:100%;"></a>
 <a href="https://raw.githubusercontent.com/Rezzansk/Java-Spring-MVC-JPA-Vet-Clinic-Management-System/main/images/VetApp_SpringMVC_Rezzan-page-9.jpg" target="_blank">
-<img src="https://raw.githubusercontent.com/Rezzansk/Java-Spring-MVC-JPA-Vet-Clinic-Management-System/main/images/VetApp_SpringMVC_Rezzan-page-9.jpg" width="450" style="max-width:100%;"></a>
+<img src="https://raw.githubusercontent.com/Rezzansk/Java-Spring-MVC-JPA-Vet-Clinic-Management-System/main/images/VetApp_SpringMVC_Rezzan-page-9.jpg" width="400" style="max-width:100%;"></a>
 <a href="https://raw.githubusercontent.com/Rezzansk/Java-Spring-MVC-JPA-Vet-Clinic-Management-System/main/images/VetApp_SpringMVC_Rezzan-page-10.jpg" target="_blank">
-<img src="https://raw.githubusercontent.com/Rezzansk/Java-Spring-MVC-JPA-Vet-Clinic-Management-System/main/images/VetApp_SpringMVC_Rezzan-page-10.jpg" width="450" style="max-width:100%;"></a>
+<img src="https://raw.githubusercontent.com/Rezzansk/Java-Spring-MVC-JPA-Vet-Clinic-Management-System/main/images/VetApp_SpringMVC_Rezzan-page-10.jpg" width="400" style="max-width:100%;"></a>
 <a href="https://raw.githubusercontent.com/Rezzansk/Java-Spring-MVC-JPA-Vet-Clinic-Management-System/main/images/VetApp_SpringMVC_Rezzan-page-11.jpg" target="_blank">
-<img src="https://raw.githubusercontent.com/Rezzansk/Java-Spring-MVC-JPA-Vet-Clinic-Management-System/main/images/VetApp_SpringMVC_Rezzan-page-11.jpg" width="450" style="max-width:100%;"></a>
+<img src="https://raw.githubusercontent.com/Rezzansk/Java-Spring-MVC-JPA-Vet-Clinic-Management-System/main/images/VetApp_SpringMVC_Rezzan-page-11.jpg" width="400" style="max-width:100%;"></a>
 <a href="https://raw.githubusercontent.com/Rezzansk/Java-Spring-MVC-JPA-Vet-Clinic-Management-System/main/images/VetApp_SpringMVC_Rezzan-page-12.jpg" target="_blank">
-<img src="https://raw.githubusercontent.com/Rezzansk/Java-Spring-MVC-JPA-Vet-Clinic-Management-System/main/images/VetApp_SpringMVC_Rezzan-page-12.jpg" width="450" style="max-width:100%;"></a>
+<img src="https://raw.githubusercontent.com/Rezzansk/Java-Spring-MVC-JPA-Vet-Clinic-Management-System/main/images/VetApp_SpringMVC_Rezzan-page-12.jpg" width="400" style="max-width:100%;"></a>
 <a href="https://raw.githubusercontent.com/Rezzansk/Java-Spring-MVC-JPA-Vet-Clinic-Management-System/main/images/VetApp_SpringMVC_Rezzan-page-13.jpg" target="_blank">
-<img src="https://raw.githubusercontent.com/Rezzansk/Java-Spring-MVC-JPA-Vet-Clinic-Management-System/main/images/VetApp_SpringMVC_Rezzan-page-13.jpg" width="450" style="max-width:100%;"></a>
+<img src="https://raw.githubusercontent.com/Rezzansk/Java-Spring-MVC-JPA-Vet-Clinic-Management-System/main/images/VetApp_SpringMVC_Rezzan-page-13.jpg" width="400" style="max-width:100%;"></a>
 <a href="https://raw.githubusercontent.com/Rezzansk/Java-Spring-MVC-JPA-Vet-Clinic-Management-System/main/images/VetApp_SpringMVC_Rezzan-page-14.jpg" target="_blank">
-<img src="https://raw.githubusercontent.com/Rezzansk/Java-Spring-MVC-JPA-Vet-Clinic-Management-System/main/images/VetApp_SpringMVC_Rezzan-page-14.jpg" width="450" style="max-width:100%;"></a>
+<img src="https://raw.githubusercontent.com/Rezzansk/Java-Spring-MVC-JPA-Vet-Clinic-Management-System/main/images/VetApp_SpringMVC_Rezzan-page-14.jpg" width="400" style="max-width:100%;"></a>
 <a href="https://raw.githubusercontent.com/Rezzansk/Java-Spring-MVC-JPA-Vet-Clinic-Management-System/main/images/VetApp_SpringMVC_Rezzan-page-15.jpg" target="_blank">
-<img src="https://raw.githubusercontent.com/Rezzansk/Java-Spring-MVC-JPA-Vet-Clinic-Management-System/main/images/VetApp_SpringMVC_Rezzan-page-15.jpg" width="450" style="max-width:100%;"></a>
+<img src="https://raw.githubusercontent.com/Rezzansk/Java-Spring-MVC-JPA-Vet-Clinic-Management-System/main/images/VetApp_SpringMVC_Rezzan-page-15.jpg" width="400" style="max-width:100%;"></a>
 <a href="https://raw.githubusercontent.com/Rezzansk/Java-Spring-MVC-JPA-Vet-Clinic-Management-System/main/images/VetApp_SpringMVC_Rezzan-page-16.jpg" target="_blank">
-<img src="https://raw.githubusercontent.com/Rezzansk/Java-Spring-MVC-JPA-Vet-Clinic-Management-System/main/images/VetApp_SpringMVC_Rezzan-page-16.jpg" width="450" style="max-width:100%;"></a>
+<img src="https://raw.githubusercontent.com/Rezzansk/Java-Spring-MVC-JPA-Vet-Clinic-Management-System/main/images/VetApp_SpringMVC_Rezzan-page-16.jpg" width="400" style="max-width:100%;"></a>
 <a href="https://raw.githubusercontent.com/Rezzansk/Java-Spring-MVC-JPA-Vet-Clinic-Management-System/main/images/VetApp_SpringMVC_Rezzan-page-17.jpg" target="_blank">
-<img src="https://raw.githubusercontent.com/Rezzansk/Java-Spring-MVC-JPA-Vet-Clinic-Management-System/main/images/VetApp_SpringMVC_Rezzan-page-17.jpg" width="450" style="max-width:100%;"></a>
+<img src="https://raw.githubusercontent.com/Rezzansk/Java-Spring-MVC-JPA-Vet-Clinic-Management-System/main/images/VetApp_SpringMVC_Rezzan-page-17.jpg" width="400" style="max-width:100%;"></a>
 <a href="https://raw.githubusercontent.com/Rezzansk/Java-Spring-MVC-JPA-Vet-Clinic-Management-System/main/images/VetApp_SpringMVC_Rezzan-page-18.jpg" target="_blank">
-<img src="https://raw.githubusercontent.com/Rezzansk/Java-Spring-MVC-JPA-Vet-Clinic-Management-System/main/images/VetApp_SpringMVC_Rezzan-page-18.jpg" width="450" style="max-width:100%;"></a>
+<img src="https://raw.githubusercontent.com/Rezzansk/Java-Spring-MVC-JPA-Vet-Clinic-Management-System/main/images/VetApp_SpringMVC_Rezzan-page-18.jpg" width="400" style="max-width:100%;"></a>
 <a href="https://raw.githubusercontent.com/Rezzansk/Java-Spring-MVC-JPA-Vet-Clinic-Management-System/main/images/VetApp_SpringMVC_Rezzan-page-19.jpg" target="_blank">
-<img src="https://raw.githubusercontent.com/Rezzansk/Java-Spring-MVC-JPA-Vet-Clinic-Management-System/main/images/VetApp_SpringMVC_Rezzan-page-19.jpg" width="450" style="max-width:100%;"></a>
+<img src="https://raw.githubusercontent.com/Rezzansk/Java-Spring-MVC-JPA-Vet-Clinic-Management-System/main/images/VetApp_SpringMVC_Rezzan-page-19.jpg" width="400" style="max-width:100%;"></a>
 </p>
