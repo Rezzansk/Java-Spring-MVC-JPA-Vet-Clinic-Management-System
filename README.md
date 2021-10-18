@@ -1,6 +1,6 @@
 # Veterinary Clinic Management System
 
-This project has been designed in order to meet the necessity of clinic operation demands and carry out the procedures in a fast and practical way. This project was designed using the Spring-Boot framework, following the MVC design pattern. MySql was used as the database during the design phase. JPA, one of the ORM tools, was used to manage the database. While developing the interface, HTML, CSS, BootStrap5 and JavaScript were used. Java and JavaScript(jQuery) languages are used in the back-end part.
+This project has been designed in order to meet the necessity of clinic operation demands and carry out the procedures in a fast and practical way. This project was designed using the Spring-Boot framework, following the MVC design pattern. MySql was used as the database during the design phase. JPA, one of the ORM tools, was used to manage the database. While developing the interface, HTML, CSS, BootStrap5 and JavaScript were used. Java and JavaScript(jQuery) languages are used in the back-end part. 
 
 
 ## Technologies Libraries and Frameworks
